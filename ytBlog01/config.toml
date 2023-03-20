@@ -12,16 +12,19 @@ disqusShortname = "yourdiscussshortname"
 style = "github-dark"
 
 [params]
+
+  noreadingtime = true
+
   # author = "Yinting Chen"
-  info = ["人的一生，短暂而又漫长","人的记忆，确凿而又易逝","","一样的死去","留下故事者永生"]
+  info = ["人的一生，短暂而又漫长","人的记忆，确凿而又易逝","","一样的死去","留下故事者永生","","","YintingChen123@gmail.com"]
 
   description = "Yinting's personal website"
   keywords = "blog,developer,personal,movie,story"
   avatarurl = "images/YTlogo.jpg"
-  #gravatar = "john.doe@example.com"
+  # gravatar = "john.doe@example.com"
 
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
+   favicon_32 = "images/YTlogo.jpg"
+   favicon_16 = "images/YTlogo.jpg"
 
   since = 2023
 

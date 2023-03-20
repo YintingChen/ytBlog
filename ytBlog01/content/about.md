@@ -1,13 +1,11 @@
 +++
 title = "Hello!"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "About me"
+date = "2023-03-20"
+aliases = ["about-us", "about-Yinting", "contact"]
+author = "Yinting Chen"
 +++
 
 我收集故事。
 
 创造故事。
-
-YintingChen123@gmail.com
