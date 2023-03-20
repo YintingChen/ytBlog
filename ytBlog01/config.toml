@@ -1,3 +1,59 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseurl = "http://www.example.com"
+title = "YintingChen"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+disqusShortname = "yourdiscussshortname"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  # author = "Yinting Chen"
+  info = ["人的一生，短暂而又漫长","人的记忆，确凿而又易逝","","一样的死去","留下故事者永生"]
+
+  description = "Yinting's personal website"
+  keywords = "blog,developer,personal,movie,story"
+  avatarurl = "/images/YTlogo.jpg"
+  #gravatar = "john.doe@example.com"
+
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2023
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+
+# [[params.social]]
+#  name = "Twitter"
+#  icon = "fa fa-twitter fa-2x"
+#  weight = 3
+#  url = "https://twitter.com/johndoe/"
+
+# Menu links
+[[menu.main]]
+  name = "故事们"
+  weight = 1
+  url  = "posts/"
+[[menu.main]]
+  name = "关于我"
+  weight = 2
+  url = "about/"
