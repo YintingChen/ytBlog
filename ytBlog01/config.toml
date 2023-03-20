@@ -17,7 +17,7 @@ style = "github-dark"
 
   description = "Yinting's personal website"
   keywords = "blog,developer,personal,movie,story"
-  avatarurl = "static/images/YTlogo.jpg"
+  avatarurl = "images/YTlogo.jpg"
   #gravatar = "john.doe@example.com"
 
   favicon_32 = "/img/favicon-32x32.png"
