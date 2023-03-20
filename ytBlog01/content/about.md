@@ -9,3 +9,5 @@ author = "Hugo Authors"
 我收集故事。
 
 创造故事。
+
+YintingChen123@gmail.com
